@@ -1,0 +1,17 @@
+{
+  "name": "multimath",
+  "version": "1.0.0",
+  "description": "Simple math game for demonstrating modules.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server"
+  },
+  "keywords": [],
+  "author": "Sterling Houghton",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "http-server": "^0.10.0"
+  }
+}
